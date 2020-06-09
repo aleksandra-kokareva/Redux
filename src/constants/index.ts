@@ -1,0 +1,8 @@
+export const ADD_ITEM = 'ADD_ITEM'
+export const DELETE_ITEM = 'DELETE_ITEM'
+export const DONE_ITEM = 'DONE_ITEM'
+export const IMPORTANT_ITEM = 'IMPORTANT_ITEM'
+
+export const FETCH_DATA = 'FETCH_DATA'
+export const FETCH_DATA_SUCCESS = 'FETCH_DATA_SUCCESS'
+export const FETCH_DATA_ERROR = 'FETCH_DATA_ERROR'
